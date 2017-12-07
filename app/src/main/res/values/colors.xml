@@ -3,4 +3,188 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colorTextMainVan">#444444</color>
+
+    <color name="white00">#00FFFFFF</color>
+    <color name="white40">#40FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red">#FE3A3B</color>
+    <color name="gold">#FFD700</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="green">#008000</color>
+    <color name="blue">#0000FF</color>
+    <color name="purple">#800080</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="orange">#FFA500</color>
+    <color name="lemonyellow">#FFFACD</color>
+    <color name="black_alpha_240">#f0000000</color>
+    <color name="login_bg">#fe312b</color>
+    <color name="sign_text">#FFFD5727</color>
+    <color name="tab_bg">#fe312b</color>
+    <color name="cart_goods_red_color">#FF3333</color>
+    <color name="pop_des_color">#333333</color>
+    <color name="not_exist_color">#DFDEDE</color>
+    <color name="cart_goods_original_color">#999999</color>
+    <color name="line_divider">#CCCCCC</color>
+
+    <color name="bg_blak">#434a5d</color>
+    <color name="count_text_color_light">#9d9d9d</color>
+    <color name="transparent">#0000</color>
+    <color name="gray_text">#333333</color>
+    <color name="gray_666">#666666</color>
+    <color name="gray_ddd">#dddddd</color>
+    <color name="gray_666_bg">#66666666</color>
+    <color name="gray_text_transparent">#99333333</color>
+    <color name="window_background">#EBEBEB</color>
+    <color name="main_gray">#9A9A9A</color>
+
+    <color name="gray_light">#eeeeee</color>
+    <color name="divider">#eeeeff</color>
+    <color name="gray">#838992</color>
+    <color name="text_hint">#c7c7c7</color>
+
+    <color name="text_color">#9A9A9A</color>
+
+    <color name="gray_sign_edt">#e1e1e1</color>
+    <color name="text_check_code">#4b4b4b</color>
+
+    <color name="cyan_500">#00bcd4</color>
+    <color name="purple_500">#9c27b0</color>
+    <color name="blue_500">#5677fc</color>
+    <color name="orange_500">#ff9800</color>
+    <color name="pink_500">#e91e63</color>
+    <color name="grey_300">#e0e0e0</color>
+
+    <color name="text_title_center">#222222</color>
+
+    <color name="view_bg">#bbbbbb</color>
+    <color name="order_comfirm_price">#e41616</color>
+
+    <color name="setting_field_title_color">#666666</color>
+    <color name="setting_btn_color">#FF6666</color>
+    <color name="setting_page_bg">#F2F2F2</color>
+    <color name="setting_back_text">#999999</color>
+    <color name="setting_title_color">#FF7E7E</color>
+    <color name="setting_content_color">#333333</color>
+
+    <color name="text_price_red">#f51e26</color>
+    <color name="text_allprice_red">#e9010a</color>
+
+    <color name="pro_ticket_price">#e90009</color>
+
+    <color name="gray_222">#222</color>
+    <color name="gray_444">#444</color>
+    <color name="gray_f6">#f6f6f6</color>
+    <color name="gray_888">#888</color>
+    <color name="gray_f0">#f0f0f0</color>
+    <color name="gray_f1">#f1f1f1</color>
+    <color name="gray_888888">#888888</color>
+
+    <color name="f6">#ffffff</color>
+
+    <color name="white_alpha_half">#99FFFFFF</color>
+
+    <color name="gray_deep">#c9000000</color>
+
+    <color name="role_right_gray">#929292</color>
+    <color name="role_yellow_gray">#33CC99</color>
+    <color name="tv_right_gray">#929292</color>
+    <color name="bg_white_gray">#f2f2f2</color>
+    <color name="tv_talk_content">#FFB3B3B3</color>
+    <color name="line_recent_contact">#FFEEEEEE</color>
+    <color name="light_gray">#808080</color>
+    <color name="light_white">#33ffffff</color>
+    <color name="chat_tip_color">#FFcccccc</color>
+
+    <color name="main_blue">#3598db</color>
+    <color name="blue_check">#3493d4</color>
+    <color name="toast_white">#ffffff</color>
+    <color name="toast_stroke_gray">#99d4d4d4</color>
+
+
+    <color name="alpha_05_white">#0DFFFFFF</color>
+    <color name="alpha_10_white">#1AFFFFFF</color>
+    <color name="alpha_15_white">#26FFFFFF</color>
+    <color name="alpha_20_white">#33FFFFFF</color>
+    <color name="alpha_25_white">#40FFFFFF</color>
+    <color name="alpha_30_white">#4DFFFFFF</color>
+    <color name="alpha_35_white">#59FFFFFF</color>
+    <color name="alpha_40_white">#66FFFFFF</color>
+    <color name="alpha_45_white">#73FFFFFF</color>
+    <color name="alpha_50_white">#80FFFFFF</color>
+    <color name="alpha_55_white">#8CFFFFFF</color>
+    <color name="alpha_60_white">#99FFFFFF</color>
+    <color name="alpha_65_white">#A6FFFFFF</color>
+    <color name="alpha_70_white">#B3FFFFFF</color>
+    <color name="alpha_75_white">#BFFFFFFF</color>
+    <color name="alpha_80_white">#CCFFFFFF</color>
+    <color name="alpha_85_white">#D9FFFFFF</color>
+    <color name="alpha_90_white">#E6FFFFFF</color>
+    <color name="alpha_95_white">#F2FFFFFF</color>
+
+    <color name="alpha_05_black">#0D000000</color>
+    <color name="alpha_10_black">#1A000000</color>
+    <color name="alpha_15_black">#26000000</color>
+    <color name="alpha_20_black">#33000000</color>
+    <color name="alpha_25_black">#40000000</color>
+    <color name="alpha_30_black">#4D000000</color>
+    <color name="alpha_35_black">#59000000</color>
+    <color name="alpha_40_black">#66000000</color>
+    <color name="alpha_45_black">#73000000</color>
+    <color name="alpha_50_black">#80000000</color>
+    <color name="alpha_55_black">#8C000000</color>
+    <color name="alpha_60_black">#99000000</color>
+    <color name="alpha_65_black">#A6000000</color>
+    <color name="alpha_70_black">#B3000000</color>
+    <color name="alpha_75_black">#BF000000</color>
+    <color name="alpha_80_black">#CC000000</color>
+    <color name="alpha_85_black">#D9000000</color>
+    <color name="alpha_90_black">#E6000000</color>
+    <color name="alpha_95_black">#F2000000</color>
+
+    <color name="download_app_hint">#e90009</color>
+
+    <color name="non_member_btn_color">#99CC66</color>
+
+    <color name="pop_activity_goods_buy_btn_color">#ea1b2e</color>
+    <color name="promotion_background">#F2F2F2</color>
+
+    <color name="main_link_text_color">#ff507daf</color>
+
+    <color name="g_default_loading_bg">@color/grey_300</color>
+
+    <!-- 下拉刷新时，颜色值 -->
+    <color name="swiperefresh_color1">#ff00ddff</color>
+    <color name="swiperefresh_color2">#ffffbb33</color>
+    <color name="swiperefresh_color3">#ffff4444</color>
+    <color name="swiperefresh_color4">#ffaa66cc</color>
+
+    <!--登录和注册的输入框-->
+    <color name="input_bg">#ddd</color>
+    <color name="input_text">#666</color>
+    <color name="input_hint">#999</color>
+
+    <!--获取验证码框的背景色-->
+    <color name="getCode_bg">#bbb</color>
+
+    <!--退出登录框的按钮颜色-->
+    <color name="btn_bg_neg">#b7b7b7</color>
+    <color name="btn_bg_pos">#fe312b</color>
+
+    <!--商品详情页的按钮-->
+    <color name="btn_nav_bg">#ff8800</color>
+    <color name="red_text_type">#fe2b33</color>
+    <color name="red_bag_bg">#aa000000</color>
+
+
+    <color name="white_translucent">#30FFFFFF</color>
+    <color name="white_translucent_20">#20FFFFFF</color>
+    <color name="black_translucent">#50000000</color>
+    <color name="green_00FFF7">#00FFF7</color>
+
+    <color name="shelvesCode">#77000000</color>
+
+    <color name="transparent2">#0000</color>
+
 </resources>
