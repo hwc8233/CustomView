@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:orientation="horizontal">
+
+    <View
+        android:id="@+id/mytext_line"
+        android:layout_width="1px"
+        android:layout_height="30px"
+        android:background="@mipmap/icon_shuxian" />
+
+    <TextView
+        android:id="@+id/mytext_desc"
+        android:layout_width="230px"
+        android:layout_height="50px"
+        android:gravity="center"
+        android:text="距本场开始还有"
+        android:textColor="@color/gray_666"
+        android:textSize="26px" />
+
+    <TextView
+        android:id="@+id/mytext_hour_1"
+        android:layout_width="30px"
+        android:layout_height="50px"
+        android:background="@mipmap/icon_timer_bg"
+        android:gravity="center"
+        android:text="2"
+        android:textColor="@color/white"
+        android:textSize="32px" />
+
+    <TextView
+        android:id="@+id/mytext_hour_2"
+        android:layout_width="30px"
+        android:layout_height="50px"
+        android:layout_margin="4px"
+        android:background="@mipmap/icon_timer_bg"
+        android:gravity="center"
+        android:text="2"
+        android:textColor="@color/white"
+        android:textSize="32px" />
+
+    <View
+        android:layout_width="5px"
+        android:layout_height="14px"
+        android:layout_margin="4px"
+        android:background="@mipmap/icon_timer_middle" />
+
+    <TextView
+        android:id="@+id/mytext_minter_1"
+        android:layout_width="30px"
+        android:layout_height="50px"
+        android:background="@mipmap/icon_timer_bg"
+        android:gravity="center"
+        android:text="2"
+        android:textColor="@color/white"
+        android:textSize="32px" />
+
+    <TextView
+        android:id="@+id/mytext_minter_2"
+        android:layout_width="30px"
+        android:layout_height="50px"
+        android:layout_margin="4px"
+        android:background="@mipmap/icon_timer_bg"
+        android:gravity="center"
+        android:text="2"
+        android:textColor="@color/white"
+        android:textSize="32px" />
+
+    <View
+        android:layout_width="5px"
+        android:layout_height="14px"
+        android:layout_margin="4px"
+        android:background="@mipmap/icon_timer_middle" />
+
+    <TextView
+        android:id="@+id/mytext_second_1"
+        android:layout_width="30px"
+        android:layout_height="50px"
+        android:background="@mipmap/icon_timer_bg"
+        android:gravity="center"
+        android:text="2"
+        android:textColor="@color/white"
+        android:textSize="32px" />
+
+    <TextView
+        android:id="@+id/mytext_second_2"
+        android:layout_width="30px"
+        android:layout_height="50px"
+        android:layout_margin="4px"
+        android:background="@mipmap/icon_timer_bg"
+        android:gravity="center"
+        android:text="2"
+        android:textColor="@color/white"
+        android:textSize="32px" />
+
+</LinearLayout>
