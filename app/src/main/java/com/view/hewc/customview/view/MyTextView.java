@@ -1,4 +1,4 @@
-package com.view.hewc.customview.activity;
+package com.view.hewc.customview.view;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
